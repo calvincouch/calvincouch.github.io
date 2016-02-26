@@ -45,6 +45,9 @@ section .col-sm-2 {
   text-align: right;
 }
 
+footer {
+  margin-bottom: 150px;
+}
 
 footer .col-sm-2 {
   text-align: center;
