@@ -1,0 +1,54 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+#pic {
+  align-items:center;
+}
+
+header {
+  margin: 0 0 16px 0;
+  padding: 0 0 16px 0;
+  letter-spacing: -2px;
+  border-bottom: 1px solid #999;
+}
+
+header h4 {
+  font-size: 24px;
+  font-weight: bold;
+}
+header a {
+  color: #999;
+  text-decoration: none;
+ }
+
+header .row {
+  display: flex;
+  align-items: center;
+}
+
+#edu, #pro { 
+  margin: 0 0 16px 0;
+  padding: 0 0 16px 0;
+  border-bottom: 1px solid #999;
+}
+
+
+section .col-sm-10 {
+  line-height: 1;
+  font-weight:bold;
+}
+
+section .col-sm-2 {
+  text-align: right;
+}
+
+
+section,footer h4 {
+  font-weight: bold;
+}
+
+footer .col-sm-2 {
+  text-align: center;
+}
