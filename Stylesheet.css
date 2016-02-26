@@ -1,6 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   max-width: 800px;
+  min-width: 780px;
 }
 img {
   width: 200px;
