@@ -37,11 +37,19 @@ header a {
   border-top: 2px solid #999;
   border-bottom: 2px solid #999;
 }
+h4#edu {
+  font-size: 22px;
+  font-weight: bolder;
+}
 
 #pro { 
   margin: 0 0 16px 0;
   padding: 0 0 16px 0;
   border-bottom: 2px solid #999;
+}
+
+ul{
+  margin-bottom: 20px;
 }
 
 h4#pro {
