@@ -29,9 +29,7 @@ header a {
   text-decoration: none;
  }
 
-ul {
 
-}
 
 #edu {
   margin: 0 0 16px 0;
@@ -46,7 +44,7 @@ ul {
   border-bottom: 2px solid #999;
 }
 
-#pro, #edu h4 {
+#pro h4 {
   font-size: 22px;
   font-weight: bolder;
 
