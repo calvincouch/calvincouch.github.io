@@ -1,7 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   max-width: 800px;
-  min-width: 780px;
+  min-width: 800px;
 }
 img {
   width: 200px;
@@ -51,6 +51,8 @@ section .col-sm-2 {
 }
 
 footer {
+  max-width: 800px;
+  min-width: 800px;
   margin-bottom: 150px;
 }
 
