@@ -1,6 +1,6 @@
 import pandas as pd 
 
-df = pd.read_csv('DAT_ASCII_USDJPY_M1_201610.CSV')
+df = pd.read_csv('www.calvincouch.github.io')
 
 print df
 
