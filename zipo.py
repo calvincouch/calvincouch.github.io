@@ -1,6 +1,9 @@
 import pandas as pd 
 
-df = pd.read_csv('www.calvincouch.github.io')
 
-print df
+year = input("year?  ")
+gitter = str("https://github.com/calvincouch/calvincouch.github.io/blob/master/datc/DAT_ASCII_USDJPY_M1_"+year+".csv")
 
+df = pd.read_csv(gitter)
+
+df
